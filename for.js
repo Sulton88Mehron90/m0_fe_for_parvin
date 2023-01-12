@@ -35,7 +35,6 @@ for (var i = 0; i < words.length; i++) {
   }
 }
 
-
 // 📹 Record yourself live-coding and talking through any ONE of the challenges. 
   // The recording doesn't have to be the first time you are solving the problem. 
   // Use technical vocabulary and explain each part to demonstrate your understanding! 
